@@ -1,0 +1,13 @@
+.\ltm022a69b.o: LTM022A69B.c
+.\ltm022a69b.o: C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\ltm022a69b.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\ltm022a69b.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\ltm022a69b.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\ltm022a69b.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\ltm022a69b.o: C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+.\ltm022a69b.o: system.h
+.\ltm022a69b.o: LTM022A69B.h
+.\ltm022a69b.o: LCD_lib.h
+.\ltm022a69b.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\ltm022a69b.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\ltm022a69b.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
